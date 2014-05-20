@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">空气质量</string>
+    <string name="action_settings">设置</string>
+    <string name="refresh">刷新</string>
+    <string name="current_voc">VOC:</string>
+    <string name="current_temperature">温度:</string>
+    <string name="current_humidity">湿度:</string>       
+</resources>

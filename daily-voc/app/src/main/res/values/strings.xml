@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VOC</string>
+    <string name="action_settings">Settings</string>
+    <string name="refresh">Refresh</string>
+    <string name="current_voc">VOC:</string>
+    <string name="current_temperature">Temperature:</string>
+    <string name="current_humidity">Humidity:</string>
+</resources>
